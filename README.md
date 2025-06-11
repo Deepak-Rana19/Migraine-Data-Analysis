@@ -1,48 +1,72 @@
-# Overview
+# 🧠 Migraine Attack Analysis & Prediction
 
-This project leverages a medical dataset to predict the likelihood and severity of migraine attacks using exploratory data analysis.
+## 📌 Overview
 
-The analysis includes a wide variety of statistical methods to understand the nature of the data, its distribution, and possible influencing factors. The data is preprocessed, analyzed, visualized, and modeled to extract insights and make predictive assessments.
+This project leverages a medical dataset to predict the **likelihood and severity of migraine attacks** using exploratory data analysis (EDA).
 
-#📁 Repository Contents
+The analysis includes a wide variety of **statistical methods** to understand the nature of the data, its distribution, and possible influencing factors. The data is **preprocessed, analyzed, visualized**, and **modeled** to extract insights and make predictive assessments.
 
-A migraine is a neurological disorder characterized by recurrent episodes of moderate to severe headache, often accompanied by symptoms such as nausea, vomiting, and sensitivity to light and sound. The headache typically presents as a throbbing or pulsating pain, usually on one side of the head, and can last from a few hours to several days and can significantly impact daily life.
+---
 
-Key attributes analyzed may include age, location of the pain, nature of pain, frequency, duration & intensity and more depending on the dataset. 
+## 📁 Repository Contents
 
-#🧠 Key Features
+A **migraine** is a neurological disorder characterized by recurrent episodes of moderate to severe headache, often accompanied by symptoms such as **nausea**, **vomiting**, and **sensitivity to light and sound**. The headache typically presents as a **throbbing or pulsating pain**, usually on one side of the head, lasting from a few hours to several days and significantly impacting daily life.
 
--Exploratory Data Analysis (EDA) of migraine analysis.
--Data cleaning and preprocessing.
--Visualizations using libraries like Matplotlib and Seaborn.
--Statistical analysis and insights based on historical trends.
+Key attributes analyzed include:
 
-#🔧 Technologies Used
+- Age  
+- Location of pain  
+- Nature of pain  
+- Frequency  
+- Duration  
+- Intensity  
+- Other relevant factors (based on dataset)
 
--Python
--Google collab
--Pandas
--Matplotlib
--Seaborn
+---
 
-#📊 Visual Insights
+## 🧠 Key Features
 
-This notebook includes visual representation of:
+- ✅ Exploratory Data Analysis (EDA) of migraine-related data  
+- ✅ Data cleaning and preprocessing  
+- ✅ Visualizations using libraries like **Matplotlib** and **Seaborn**  
+- ✅ Statistical analysis and trend-based insights  
 
--Histogram
--Barplot
--Bargraph
--Heatmap
--Correlation
+---
 
-#🚀 Getting Started
+## 🔧 Technologies Used
 
-Prerequisites
+- 🐍 Python  
+- 💻 Google Colab  
+- 📊 Pandas  
+- 📈 Matplotlib  
+- 📉 Seaborn  
 
-Ensure you have the following installed:
+---
 
-Python 3.x
-Jupyter Notebook
-pandas
-matplotlib
-seaborn
+## 📊 Visual Insights
+
+This notebook includes visual representations such as:
+
+- 📌 Histogram  
+- 📌 Bar Plot  
+- 📌 Bar Graph  
+- 📌 Heatmap  
+- 📌 Correlation Matrix  
+
+---
+
+## 🚀 Getting Started
+
+### ✅ Prerequisites
+
+Ensure the following are installed:
+
+- Python 3.x  
+- Jupyter Notebook or Google Colab  
+- `pandas`  
+- `matplotlib`  
+- `seaborn`  
+
+---
+
+> 💡 Feel free to fork this repository, open issues, or contribute!
